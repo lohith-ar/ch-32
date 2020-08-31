@@ -1,4 +1,4 @@
-## Boilerplate Repository - Challenge-32
+## Boilerplate Repository - Challenge-32 - Sorting E-Commerce Product List
 
 ### Instructions
 Refer the [PROBLEM.md](./PROBLEM.md) file for problem description.
