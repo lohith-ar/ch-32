@@ -17,8 +17,8 @@ The file contains the following information:
 Following are the key objectives for this challenge:
 
 - Read the file and store the data in memory in a data structure
-- write a method to sort the list of products based on it's price. Please note that the sorting can be done in either ascending or descending order.
-- write a method to sort the list of products based on it's rating in descending order only.
+- write a method to sort the list of products based on it's price. Please note that the sorting can be done in either ascending or descending order. After sorting, it should print the sorted result in a file.
+- write a method to sort the list of products based on it's rating in descending order only. After sorting, it should print the sorted result in a file.
 
 
 
